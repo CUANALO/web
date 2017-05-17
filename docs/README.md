@@ -1,2 +1,3 @@
 #MAQUETA
-![im1](/docs/images/New mockup.jpeg.png)
+![im1](/docs/images/mockup.png)
+![im2](/docs/images/mockup2.png)
